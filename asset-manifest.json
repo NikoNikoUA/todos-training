@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/todos-training/static/css/main.7acaea2f.css",
-    "main.js": "/todos-training/static/js/main.07d3183d.js",
+    "main.css": "/todos-training/static/css/main.0dd658f5.css",
+    "main.js": "/todos-training/static/js/main.9b3f0e6a.js",
     "index.html": "/todos-training/index.html",
-    "main.7acaea2f.css.map": "/todos-training/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/todos-training/static/js/main.07d3183d.js.map"
+    "main.0dd658f5.css.map": "/todos-training/static/css/main.0dd658f5.css.map",
+    "main.9b3f0e6a.js.map": "/todos-training/static/js/main.9b3f0e6a.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.0dd658f5.css",
+    "static/js/main.9b3f0e6a.js"
   ]
 }
